@@ -144,14 +144,7 @@ All talents follow a deterministic JSON schema:
     ```
     *(Alternatively, download the ZIP file and extract it into this folder).*
 
-2.  **Install Dependencies**  
-    Navigate inside the folder and install the required requirements:
-    ```bash
-    cd comfyui_morpheus_model_management
-    pip install -r requirements.txt
-    ```
-
-3.  **Restart**  
+2.  **Restart**  
     Restart ComfyUI to load the new node category **Morpheus**.
 
 ---
