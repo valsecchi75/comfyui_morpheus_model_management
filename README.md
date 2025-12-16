@@ -6,6 +6,8 @@
 
 The node does not operate as a static asset pack. It functions as a **control, governance, and orchestration layer** between ComfyUI pipelines and a remote talent repository, enabling consistent subject selection, filtering, and identity propagation across complex generation systems.
 
+<img width="839" height="768" alt="image" src="https://github.com/user-attachments/assets/ebdd67df-f1eb-45f2-97b9-c75884f08303" />
+
 ---
 
 ## 🎯 What This Node Is (and Is Not)
