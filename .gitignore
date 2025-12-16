@@ -1,0 +1,21 @@
+# Runtime cache
+cache/
+__pycache__/
+
+# Catalog thumbnails and remote cache
+catalog/.thumbnails/
+cache/remote_images/
+
+# Local / sensitive files
+.device_id
+.license_cache.json
+.remote_catalog_cache.json
+morpheus_ui_state.json
+patreon-result.html
+
+# Python
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
